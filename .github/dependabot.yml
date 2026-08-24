@@ -4,11 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-      day: "tuesday"
+      day: "saturday"
       time: "15:00"
       timezone: "Europe/Vilnius"
     cooldown:
-      default-days: 7
+      default-days: 3
     # Indirect deps land in scanner alerts too, and Dependabot skips them
     # unless "all" is allowed explicitly.
     allow:
@@ -34,11 +34,11 @@ updates:
           - "github/codeql-action*"
     schedule:
       interval: "weekly"
-      day: "thursday"
+      day: "saturday"
       time: "11:00"
       timezone: "Europe/Vilnius"
     cooldown:
-      default-days: 7
+      default-days: 3
     commit-message:
       prefix: "ci"
   - package-ecosystem: "docker"
@@ -53,10 +53,10 @@ updates:
           - "version-update:semver-minor"
     schedule:
       interval: "weekly"
-      day: "friday"
+      day: "sunday"
       time: "12:00"
       timezone: "Europe/Vilnius"
     cooldown:
-      default-days: 7
+      default-days: 3
     commit-message:
       prefix: "deps"
