@@ -60,6 +60,9 @@ jobs:
   trivy:
     name: Trivy
     runs-on: ubuntu-latest
+    # The image scan rebuilds the container on every run, which dominates PR
+    # wall clock, so the scans run on the weekly schedule only.
+    if: github.event_name == 'schedule'
     permissions:
       security-events: write
       contents: read
