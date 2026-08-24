@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.12](https://github.com/poweradmin/external-dns-poweradmin-webhook/compare/v1.4.11...v1.4.12) (2026-08-24)
+
+
+### Dependency Updates
+
+* bump distroless/static-debian12 from `1b7b9f0` to `afa5c87` ([#140](https://github.com/poweradmin/external-dns-poweradmin-webhook/issues/140)) ([9fb0532](https://github.com/poweradmin/external-dns-poweradmin-webhook/commit/9fb0532415b838473bf2c99ce92edcd6cd12ba7a))
+* bump github.com/aws/aws-sdk-go-v2/service/route53 ([#147](https://github.com/poweradmin/external-dns-poweradmin-webhook/issues/147)) ([5e0590c](https://github.com/poweradmin/external-dns-poweradmin-webhook/commit/5e0590c825b6e361a26015fb0b4466989bdc5826))
+* bump golang from 1.26.6-alpine to 1.26.7-alpine ([#139](https://github.com/poweradmin/external-dns-poweradmin-webhook/issues/139)) ([22b7def](https://github.com/poweradmin/external-dns-poweradmin-webhook/commit/22b7def6ecbea4f6d5f44d51f53acf6293080072))
+* bump the go-modules group with 24 updates ([#142](https://github.com/poweradmin/external-dns-poweradmin-webhook/issues/142)) ([56f83cf](https://github.com/poweradmin/external-dns-poweradmin-webhook/commit/56f83cf245cb419016fa6dff60ed99ac747a1625))
+
 ## [1.4.11](https://github.com/poweradmin/external-dns-poweradmin-webhook/compare/v1.4.10...v1.4.11) (2026-08-22)
 
 
