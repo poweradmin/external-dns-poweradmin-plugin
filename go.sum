@@ -4,8 +4,8 @@ github.com/alecthomas/kingpin/v2 v2.4.0 h1:f48lwail6p8zpO1bC4TxtqACaGqHYA22qkHjH
 github.com/alecthomas/kingpin/v2 v2.4.0/go.mod h1:0gyi0zQnjuFk8xrkNKamJoyUo382HRL7ATRpFZCw6tE=
 github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b h1:mimo19zliBX/vSQ6PWWSL9lK8qwHozUj03+zLoEB8O0=
 github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b/go.mod h1:fvzegU4vN3H1qMT+8wDmzjAcDONcgo2/SZ/TyfdUOFs=
-github.com/aws/aws-sdk-go-v2/service/route53 v1.65.8 h1:kECfPNGc60Bkqgw4Hai4tSDOCJRUKKyfB4MJeJ290VM=
-github.com/aws/aws-sdk-go-v2/service/route53 v1.65.8/go.mod h1:WtIKiMR9xRdOf5LM9MWqv4cYjtfQb90U42m7g5dhT68=
+github.com/aws/aws-sdk-go-v2/service/route53 v1.65.9 h1:zzUK8JFvcZafaE/Ua05DOfwz1Es2Xoc1+Vogu+qG+90=
+github.com/aws/aws-sdk-go-v2/service/route53 v1.65.9/go.mod h1:PYKGMazd5Lis+UpdowG8d0NxvxQoNVlK4KPlCQCUa6g=
 github.com/aws/smithy-go v1.27.8 h1:FR0dxZfIlV7Z8eh2iHfIofdunw382XsDV3Mxt9nUvRY=
 github.com/aws/smithy-go v1.27.8/go.mod h1:YE2RhdIuDbA5E5bTdciG9KrW3+TiEONeUWCqxX9i1Fc=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
