@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.14](https://github.com/poweradmin/external-dns-poweradmin-webhook/compare/v1.4.13...v1.4.14) (2026-09-06)
+
+
+### Dependency Updates
+
+* bump golang from 1.26.7-alpine to 1.26.8-alpine ([#154](https://github.com/poweradmin/external-dns-poweradmin-webhook/issues/154)) ([52dd79b](https://github.com/poweradmin/external-dns-poweradmin-webhook/commit/52dd79bf1d2318b32cb880086a9700316a34fdc0))
+
 ## [1.4.13](https://github.com/poweradmin/external-dns-poweradmin-webhook/compare/v1.4.12...v1.4.13) (2026-08-30)
 
 
